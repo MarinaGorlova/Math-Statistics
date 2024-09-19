@@ -1,0 +1,1 @@
+"Using bootstrap to assess the relationship ..." and "Using chi-square test of independence ..." are examples of statistical analysis that I performed while working as a data analyst at the Training & Development Department. The rest are the result of using python libraries in analysing various datasets and solving math tasks. 
